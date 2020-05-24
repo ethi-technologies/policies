@@ -1,19 +1,13 @@
----
-title: GitHub Acceptable Use Policies
-productVersions:
-  dotcom: '*'
-englishOnly: true
----
-
+# Ethi Acceptabel Use Policies
 ### Acceptable Use Policies
 
 **Short version:** _We host data from all over the world, and that collaboration only works when our users are able to upload their data in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on how you use our service._
 
-Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](https://help.github.com/en/articles/github-terms-of-service), [Corporate Terms of Service](https://help.github.com/en/articles/github-corporate-terms-of-service), and [Privacy Statement](https://help.github.com/articles/github-privacy-statement). For customers subject to the [Corporate Terms of Service](https://help.github.com/articles/github-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
+Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](https://github.com/ethi-technologies/policies/articles/github-terms-of-service), [Corporate Terms of Service](https://help.github.com/en/articles/github-corporate-terms-of-service), and [Privacy Statement](https://github.com/ethi-technologies/policies/articles/ethi-privacy-statement). For customers subject to the [Corporate Terms of Service](https://github.com/ethi-technologies/policies/articles/ethi-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
 
 #### 1. Compliance with Laws and Regulations
 
-You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](https://help.github.com/en/articles/github-terms-of-service) and [Corporate Terms of Service](https://help.github.com/en/articles/github-corporate-terms-of-service).
+You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](https://github.com/ethi-technologies/policies//github-terms-of-service) and [Corporate Terms of Service](https://help.github.com/en/articles/github-corporate-terms-of-service).
 
 #### 2. Content Restrictions
 
