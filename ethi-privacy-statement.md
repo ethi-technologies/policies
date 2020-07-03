@@ -1,12 +1,14 @@
 # Ethi Privacy Statement
 
-Effective date: May 4, 2020
+Effective date: Jul 3, 2020
 
-Thanks for entrusting Ethi Technologies Ltd. (“Ethi”, “we”) with your data and personal information. Holding your private information is a serious responsibility, so we want you to know how we handle it.
+Holding your private information is a serious responsibility, so we want you to know how we handle it.
+
+Up front, any data that you add to Ethi to analyse is only used for the sole purpose of providing you with the Ethi Service. We don't sell, share, or use this data for anything else. We believe your data should only be used in ways that you clearly consent to, that benefit you.
 
 Ethi Technologies Ltd is the controller responsible for the processing of your personal information, with the contact details: 68 Acton St, London, WC1X 9NB, contact@ethi.me.
 
-All capitalized terms have their definition in [Ethi’s Terms of Service](https://help.ethi.com/en/ethi/site-policy/ethi-terms-of-service), unless otherwise noted here.
+All capitalized terms have their definition in [Ethi’s Terms of Service](https://github.com/ethi-technologies/policies/blob/master/ethi-terms-of-service.md), unless otherwise noted here.
 
 
 
@@ -14,9 +16,9 @@ All capitalized terms have their definition in [Ethi’s Terms of Service](https
 
 ### What information Ethi collects
 
-"**User Personal Information**" is any information about one of our Users which could, alone or together with other information, personally identify them or otherwise be reasonably connected with them. Usernames, passwords, email addresses, real names, Internet protocol (IP) addresses, and photographs are all examples of “User Personal Information.”
+"**User Personal Information**" is any information about one of our Users which could personally identify them or be reasonably connected with them. Stuff like Usernames, passwords, email addresses, real names, Internet protocol (IP) addresses, and photographs.
 
-User Personal Information does not include aggregated, non-personally identifying information that cannot identify a User or  otherwise be reasonably linked or connected with them. We may use this aggregated information for research and to operate, analyze, improve, and optimize our Website and Service.
+User Personal Information does not include aggregated, non-personally identifying information that cannot identify a User or  otherwise be reasonably linked or connected with them, such as website visits.
 
 #### Information users provide directly to Ethi
 
@@ -38,7 +40,7 @@ If you have a paid Account with us, we automatically collect certain information
 If you're accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, the referring site, your IP address and session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
 
 #### *Cookies and Similar Technologies Information*
-Subject, where applicable, to your consent, we automatically collect information from httpOnly cookies for the session, and for usability purposes only.
+Subject to your consent, we collect information from cookies so that we can keep you logged in, for usability purposes only.
 
 #### *Device Information*
 We may collect certain information about your device, such as IP address, browser or client application information, language preference, operating system and application version, device type and ID, and device model and manufacturer. This information may include User Personal information.
@@ -61,15 +63,12 @@ We do not purchase User Personal Information from third-party data brokers.
 
 We may use your information for the following purposes:
 
-- We use your registration information to create your account and fill out your profile.
-- We use your payment information to provide you with the Paid Account service or any other Ethi paid service you request.
-- We use your User Personal Information, specifically your username, to identify you on Ethi.
-- We use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. 
-- We use User Personal Information to respond to support requests.
+- We use your registration information to create your account and identify you on Ethi, and payment information to provide you with the Paid Account service or any other Ethi paid service you request.
+- We use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. e.g. to respond to support requests.
 - We may use User Personal Information to invite you to take part in surveys, beta programs, or other research projects, subject to your consent.
 - We may use your User Personal Information if it is necessary for security purposes or to investigate possible fraud or attempts to harm Ethi or our Users.
 - We may use your User Personal Information to comply with our legal obligations, protect our intellectual property, and enforce our Terms of Service.
-- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile.
+- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile, in the Data Choices section.
 - Any data that you provide Ethi via upload or connection to external online services is only used for the sole purpose of providing you with the Ethi Service.
 
 #### Our legal bases for processing information
