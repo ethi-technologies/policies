@@ -1,6 +1,6 @@
 # Ethi Terms of Service
 
-Thank you for choosing Ethi! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Ethi. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
+Thank you for choosing Ethi! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Ethi. Because it is an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
 ### Summary
 
@@ -63,7 +63,7 @@ In some situations, third parties' terms may apply to your use of Ethi. For exam
 ### C. Acceptable Use
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://github.com/ethi-technologies/policies/articles/ethi-acceptable-use-policies).
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](https://github.com/ethi-technologies/policies/blob/master/ethi-acceptable-use-policies.md).
 
 ### D. Intellectual Property Notice
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
@@ -72,10 +72,10 @@ You agree that you will not under any circumstances violate our [Acceptable Use 
 Ethi and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Ethi, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Ethi.
 
 #### 2. Ethi Trademarks and Logos
-If you’d like to use Ethi’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos.
+If you’d like to use Ethi’s trademarks, you must follow the same standard trademark guidelines as Github, including those on their logos page: https://github.com/logos.
 
 #### 3. License to Ethi Policies
-This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). It is adapted from the GitHub Terms of Service policy. For licencedetails, see GitHub's [site-policy repository](https://github.com/github/site-policy#license).
+This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). It is adapted from the GitHub Terms of Service policy. For licence details, see GitHub's [site-policy repository](https://github.com/github/site-policy#license).
 
 ### E. API Terms
 **Short version:** *You agree to these Terms of Service, plus this Section H, when using any of Ethi's APIs (Application Provider Interface), including use of the API through a third party product that accesses Ethi.*
@@ -91,7 +91,7 @@ Ethi may offer subscription-based access to our API for those Users who require 
 ### F. Ethi Additional Product Terms
 **Short version:** *You need to follow certain specific terms and conditions for Ethi's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
-Some Service features may be subject to additional terms specific to that feature or product as set forth in the Ethi Additional Product Terms. By accessing or using the Services, you also agree to the [Ethi Additional Product Terms](https://github.com/ethi-technologies/policies/articles/github-additional-product-terms).
+Some Service features may be subject to additional terms specific to that feature or product as set forth in the Ethi Additional Product Terms. By accessing or using the Services, you also agree to the [Ethi Additional Product Terms](https://github.com/ethi-technologies/policies/blob/master/ethi-additional-product-terms.md).
 
 ### G. Beta Previews
 **Short version:** *Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better.*
@@ -195,14 +195,14 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 ### N. Changes to These Terms
 **Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
-We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
 ### O. Miscellaneous
 
 #### 1. Governing Law
-Except to the extent applicable law provides otherwise, this Agreement between you and Ethi and any access to or use of the Website or the Service are governed by the federal laws of the United Kingdom and the laws of the European Union, without regard to conflict of law provisions. You and Ethi agree to submit to the exclusive jurisdiction and venue of the courts located in the United Kingdom and the EU.
+Except to the extent applicable law provides otherwise, this Agreement between you and Ethi and any access to or use of the Website or the Service are governed by the laws of the United Kingdom and the laws of the European Union, without regard to conflict of law provisions. You and Ethi agree to submit to the exclusive jurisdiction and venue of the courts located in the United Kingdom and the EU.
 
 #### 2. Non-Assignability
 Ethi may assign or delegate these Terms of Service and/or the [Ethi Privacy Statement](https://github.com/ethi-technologies/policies/articles/ethi-privacy-statement.md), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
