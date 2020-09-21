@@ -1,6 +1,6 @@
 # Ethi Acceptable Use Policies 
 
-**Short version:** _We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
+**Short version:** _Ethi only works when our users are able to interact with our service in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
 
 Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](./ethi-terms-of-service), and [Privacy Statement](./ethi-privacy-statement). Terms: "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "Ethi Technologies".
 
@@ -61,16 +61,7 @@ Any person, entity, or service collecting data from the Service must comply with
 ### 7. Excessive Bandwidth Use
 The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. See the [Ethi Additional Product Terms](./ethi-additional-product-terms) for more details on specific features' bandwidth limitations.
 
-### 8. Advertising on or with the Ethi Platform
-**Short version:** *We do not generally prohibit use of Ethi for advertising. However, we expect our users to follow certain limitations, so Ethi does not become a spam haven. No one wants that.*
-
-While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. This includes Content posted in or through Pages, Packages, repositories, and all other parts of the Service. You may include static images, links, and promotional text in the README documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitHub. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
-
-You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](./ethi-terms-of-service/), or [Acceptable Use Policy](./ethi-acceptable-use-policies/), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
-
-If you decide to post any promotional materials in your Account, you are solely responsible for complying with all applicable laws and regulationss. We reserve the right to remove any promotional materials or advertisements that, in our sole discretion, violate any Ethi terms or policies.
-
-### 9. Spam and Inauthentic Activity on Ethi
+### 8. Spam and Inauthentic Activity on Ethi
 Automated excessive bulk activity and coordinated inauthentic activity, such as spamming, are prohibited on Ethi. Prohibited activities include:
 * bulk distribution of promotions and advertising prohibited by Ethi terms and policies
 * inauthentic interactions, such as fake accounts and automated inauthentic activity
@@ -81,5 +72,5 @@ Automated excessive bulk activity and coordinated inauthentic activity, such as 
 
 Ethi reserves the right to remove any Content in violation of this policy.
 
-### 10. User Protection
+### 9. User Protection
 You must not engage in activity that significantly harms other users. We will resolve disputes in favor of protecting users as a whole.
