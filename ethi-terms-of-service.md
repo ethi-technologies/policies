@@ -28,7 +28,7 @@ Effective date: May 24th, 2020
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
 1. An "Account" represents your legal relationship with Ethi. A “User Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on Ethi.
-2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the Ethi Privacy Statement, available at [github.com/ethi-technologies/policies/articles/ethi-privacy-statement](https://github.com/ethi-technologies/policies/articles/ethi-privacy-statement)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [github.com/ethi-technologies/policies/](https://github.com/ethi-technologies/policies).
+2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the Ethi Privacy Statement, available at [https://github.com/ethi-technologies/policies/blob/master/ethi-privacy-statement.md](https://github.com/ethi-technologies/policies/blob/master/ethi-privacy-statement.md)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [github.com/ethi-technologies/policies/](https://github.com/ethi-technologies/policies).
 3. "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
 4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services.
 5. “Ethi,” “We,” and “Us” refer to Ethi, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
@@ -84,7 +84,7 @@ Abuse or excessively frequent requests to Ethi via the API may result in the tem
 
 You may not share API tokens to exceed Ethi's rate limitations.
 
-All use of the Ethi API is subject to these Terms of Service and the [Ethi Privacy Statement](https://github.com/ethi-technologies/policies/articles/ethi-privacy-statement).
+All use of the Ethi API is subject to these Terms of Service and the [Ethi Privacy Statement](https://github.com/ethi-technologies/policies/blob/master/ethi-privacy-statement.md).
 
 Ethi may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of Ethi's Service.
 
@@ -205,7 +205,7 @@ We reserve the right at any time and from time to time to modify or discontinue,
 Except to the extent applicable law provides otherwise, this Agreement between you and Ethi and any access to or use of the Website or the Service are governed by the laws of the United Kingdom and the laws of the European Union, without regard to conflict of law provisions. You and Ethi agree to submit to the exclusive jurisdiction and venue of the courts located in the United Kingdom and the EU.
 
 #### 2. Non-Assignability
-Ethi may assign or delegate these Terms of Service and/or the [Ethi Privacy Statement](https://github.com/ethi-technologies/policies/articles/ethi-privacy-statement.md), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+Ethi may assign or delegate these Terms of Service and/or the [Ethi Privacy Statement](https://github.com/ethi-technologies/policies/blob/master/ethi-privacy-statement.md), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
 #### 3. Section Headings and Summaries
 Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
