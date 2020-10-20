@@ -183,7 +183,7 @@ Our emails may contain a pixel tag, which is a small, clear image that can tell 
 
 ### Resolving complaints
 
-If you have concerns about the way Ethi is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://support.ethi.com/contact/privacy). You may also email us directly at privacy@ethi.com with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
+If you have concerns about the way Ethi is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by emailing us directly at contact@ethi.me with the subject line "Privacy Concerns." We will respond promptly — within 30 days at the latest.
 
 You may also contact our Data Protection Officer directly.
 
@@ -193,7 +193,7 @@ You may also contact our Data Protection Officer directly.
 | 68 Acton Street |
 | London, WC1X 9NB |
 | United Kingdom               |
-| contact@ethi.com |
+| contact@ethi.me |
 
 #### Dispute resolution process
 
@@ -208,11 +208,11 @@ We are subject to the jurisdiction of the European Union.
 
 ### Changes to our Privacy Statement
 
-Although most changes are likely to be minor, Ethi may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Ethi account. We will also update our [Site Policy repository](https://ethi.com/ethi/site-policy/), which tracks all changes to this policy. For changes to this Privacy Statement that are not material changes or that do not affect your rights, we encourage Users to check our Site Policy repository frequently.
+Although most changes are likely to be minor, Ethi may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Ethi account. We will also update our [Site Policy repository](https://github.com/ethi-technologies/policies/), which tracks all changes to this policy. For changes to this Privacy Statement that are not material changes or that do not affect your rights, we encourage Users to check our Site Policy repository frequently.
 
 ### License
 
-This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://ethi.com/ethi/site-policy#license).
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/ethi-technologies/policies/blob/master/LICENSE.md).
 
 ### Contacting Ethi
 Questions regarding Ethi's Privacy Statement or information practices should be directed to george@ethi.me.
