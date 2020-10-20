@@ -90,7 +90,7 @@ Because the processing of your User Personal Information is subject to certain i
 - Consent:
   * We rely on your consent to use your User Personal Information under the following circumstances: when you fill out user profile information; when you decide to participate in a Ethi project, beta program, or survey; and for marketing purposes, where applicable. All of this User Personal Information is entirely optional, and you have the ability to access, modify, and delete it at any time, with the exception of your email address which is a requirement to hold an account. You may withdraw your consent or/and delete your account at any time.
 - Legitimate Interests:
-  * We may process User Personal Information covered by the purpose of legitimate interest, for example, for legal compliance purposes, security purposes, or to maintain the confidentiality, integrity, availability, and resilience of Ethi’s systems, Website, and Service.
+  * We may process some of your User Personal Information for things that are covered by "legitimate interest". Examples of "legitimate interest" are if we need to use your User Personal Information to ensure legal compliance, for security, or to make sure Ethi’s systems, Website, or Service are working properly.
 - If you would like to request deletion of data we process on the basis of consent or if you object to our processing of personal information, please use our email us at contact@ethi.me. If you would like to remove the personal data you provided ethi post-registration, you may do so in the Data Choices section of your user profile.
 
 ### How we share the information we collect
