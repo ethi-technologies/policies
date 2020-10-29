@@ -90,7 +90,7 @@ Because the processing of your User Personal Information is subject to certain i
 - Consent:
   * We rely on your consent to use your User Personal Information under the following circumstances: when you fill out user profile information; when you decide to participate in a Ethi project, beta program, or survey; and for marketing purposes, where applicable. All of this User Personal Information is entirely optional, and you have the ability to access, modify, and delete it at any time, with the exception of your email address which is a requirement to hold an account. You may withdraw your consent or/and delete your account at any time.
 - Legitimate Interests:
-  * We may process some of your User Personal Information for things that are covered by "legitimate interest". Examples of "legitimate interest" are if we need to use your User Personal Information to ensure legal compliance, for security, or to make sure Ethi’s systems, Website, or Service are working properly.
+  * We may process some of your User Personal Information for things that are covered by "legitimate interest". Examples of "legitimate interest" are if we need to use your User Personal Information to contact you about your account, to ensure legal compliance, for security, or to make sure Ethi’s systems, Website, or Service are working properly.
 - If you would like to request deletion of data we process on the basis of consent or if you object to our processing of personal information, please use our email us at contact@ethi.me. If you would like to remove the personal data you provided ethi post-registration, you may do so in the Data Choices section of your user profile.
 
 ### How we share the information we collect
@@ -101,7 +101,7 @@ We may share your User Personal Information with third parties under one of the 
 We share your User Personal Information, if you consent, after letting you know what information will be shared, with whom, and why. For example, if you wish to connect to an Ethi feature that uses a third-party data provider, you may be asked to share your email address, or other pieces of information, for instance to verify your identity. 
 
 #### For legal disclosure
-Ethi aims for full transparency with users if we ever need to use your data to comply with legal process and legal obligations (we hope we don't!). Unless prevented from doing so by law or court order, we make as good an effort as we are reasonably able to notify users of any legally compelled or required disclosure of their information. Ethi aims to never have to disclose user data, but may disclose User Personal Information to law enforcement if legally required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, or to protect the public at large.
+Ethi aims for full transparency with users if we ever need to use your User Personal Information to comply with legal process and legal obligations (we hope we don't!). Unless prevented from doing so by law or court order, we make as good an effort as we are reasonably able to notify users of any legally compelled or required disclosure of their information. Ethi aims to never have to disclose any encrypted, user-uploaded data, but may disclose User Personal Information to law enforcement if legally required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, or to protect the public at large. We don't believe this will ever happen.
 
 #### Change in control or sale
 If we are involved in a merger, sale, or acquisition of corporate entities or business units, may share User Personal Information with the acquiring party. If any such change of ownership happens, we will notify you on our Website or by email before any transfer of your User Personal Information and we will ensure that it is under terms that preserve the confidentiality of User Personal Information. The organization receiving any User Personal Information will have to honor any promises we made in our Privacy Statement or Terms of Service.
@@ -109,7 +109,7 @@ If we are involved in a merger, sale, or acquisition of corporate entities or bu
 #### Aggregate, non-personally identifying information
 We may share certain aggregated, non-personally identifying information such as statistics on the aggregate usage of individual features, statistics on how our users collectively use Ethi, or how our users respond to our other offerings, such as events.
 
-We **do not** sell your User Personal Information for monetary gain or share it in return for any other other consideration. We may in the future help individuals to aggregate and monetise their data, if they clearly consent, but we do not currently have plans to do so.
+We **do not** sell your User Personal Information for monetary gain or share it in return for any other other consideration. We may in the future help individuals to aggregate and monetise their data, but only if they very clearly and explicitly choose to consent to this, and we do not currently have plans to do so.
 
 
 
