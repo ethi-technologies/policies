@@ -215,4 +215,4 @@ Although most changes are likely to be minor, Ethi may change our Privacy Statem
 This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/ethi-technologies/policies/blob/master/LICENSE.md).
 
 ### Contacting Ethi
-Questions regarding Ethi's Privacy Statement or information practices should be directed to george@ethi.me.
+Questions regarding Ethi's Privacy Statement or information practices should be directed to contact@ethi.me.
