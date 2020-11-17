@@ -42,15 +42,6 @@ If you're accessing our Service or Website, we automatically collect the same ba
 * **Cookies and Similar Technologies Information:**
 Subject to your consent, when you visit Ethi’s website, ethi.me, or the Ethi platform, we may store cookies and collect information so that we can improve our website. A cookie is a very small text file that is stored on your computer. Cookies allow Ethi to identify your device as you use the Ethi Site or our platform. We also use them to recognize return visitors to the Ethi Site. This helps us improve your experience using and interacting with Ethi.
 
-By themselves, cookies do not identify you specifically. Instead, they recognize your web browser. Unless you identify yourself specifically to Ethi, like signing into our platform, we don’t know who you are just because you visited the Ethi Site.
-
-We use Heap Analytics, a third party service providers to help us analyze visitor behavior and volume statistical information from individuals who visit our Site. For information on Heap Analytics’ privacy policy, click here.
-
-Heap uses both session and persistent cookies. Session cookies disappear from your computer or browser when you turn off your computer. Persistent cookies stay on your computer even after you’ve turned it off. These cookies are classed as Performance cookies, which collect data about how visitors use the Ethi Site. This includes data like which pages visitors go to the most. These cookies don’t collect information that individually identifies visitors. The data these cookies collect is aggregated and intended to be anonymous and used to improve how the site functions and performs.
-
-You can use your browser settings to opt out of performance cookies, turn off your web browser’s ability to accept any cookies, or deny consent for Ethi to analyse your visit, in which case Ethi won't store any analytics cookies or track your visit.
-
-
 * **Device Information:**
 We may collect certain information about your device, such as IP address, browser or client application information, language preference, operating system and application version, device type and ID, and device model and manufacturer. This information may include User Personal information.
 
@@ -133,9 +124,15 @@ If you would like to cancel your account and delete the associated personal data
 
 #### Cookies
 
-Ethi uses cookies to make interactions with our service easy and meaningful. Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. We use httpOnly cookies for the session and for usability only.
+By themselves, cookies do not identify you specifically. Instead, they recognize your web browser. Unless you identify yourself specifically to Ethi, like signing into our platform, we don’t know who you are just because you visited the Ethi Site.
 
 #### Tracking and analytics
+
+We use Heap Analytics, a third party service providers to help us analyze visitor behavior and volume statistical information from individuals who visit our Site. For information on Heap Analytics’ privacy policy, click here.
+
+Heap uses both session and persistent cookies. Session cookies disappear from your computer or browser when you turn off your computer. Persistent cookies stay on your computer even after you’ve turned it off. These cookies are classed as Performance cookies, which collect data about how visitors use the Ethi Site. This includes data like which pages visitors go to the most. These cookies don’t collect information that individually identifies visitors. The data these cookies collect is aggregated and intended to be anonymous and used to improve how the site functions and performs.
+
+You can use your browser settings to opt out of performance cookies, turn off your web browser’s ability to accept any cookies, or deny consent for Ethi to analyse your visit, in which case Ethi won't store any analytics cookies or track your visit.
 
 We may use third-party analytics and service providers to help us evaluate our Users' use of Ethi, compile statistical reports on activity, and improve our content and Website performance.
 
@@ -152,7 +149,7 @@ Ethi enforces a written security information program. Our program:
 
 In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected Users without undue delay.
 
-Ethi personnel do not access personal data: it is encrypted in transit and at rest and only unencrypted during analysis and display.
+Ethi personnel do not access personal data: it is encrypted in transit and at rest and only unencrypted when it is being analysed or displayed for you.
 
 No method of transmission, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
