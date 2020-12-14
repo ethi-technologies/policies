@@ -118,7 +118,7 @@ If you're already a Ethi user, you may access, update, alter, or delete your bas
 
 Generally, Ethi retains User Personal Information for as long as your account is active or as needed to provide you services.
 
-If you would like to cancel your account and delete the associated personal data or delete your User Personal Information, you may do so in your user profile. We retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile (within reason) within 90 days of your request. You may delete your data from your user profile or by contacting Ethi Support to request the erasure of the data.
+If you would like to cancel your account and delete the associated personal data or delete your User Personal Information, you may do so in your user profile. Barring legal requirements or technical issues, we will delete your full profile within 24 hours of your request. You may delete your data from your user profile or by contacting Ethi Support to request the erasure of the data.
 
 ### Our use of cookies and tracking
 
@@ -157,14 +157,14 @@ No method of transmission, or method of electronic storage, is 100% secure. Ther
 
 We store and process the information that we collect in the United Kingdom in accordance with this Privacy Statement though our service providers may store and process data outside the United Kingdom. 
 
-We provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location, and we are proud of the levels of notice, choice, accountability, security, data integrity, access, and recourse we provide. We work hard to comply with the applicable data privacy laws wherever we do business, working with our Data Protection Officer as part of a cross-functional team that oversees our privacy compliance efforts. Additionally, if our vendors or affiliates have access to User Personal Information, they must sign agreements that require them to comply with our privacy policies and with applicable data privacy laws.
+We provide a high standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
 In particular:
 
  - Ethi provides clear methods of unambiguous, informed, specific, and freely given consent at the time of data collection, when we collect your User Personal Information using consent as a basis.
  - We collect only the minimum amount of User Personal Information necessary for our purposes, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.
  - We offer you simple methods of accessing, altering, or deleting the User Personal Information we have collected, where legally permitted.
- - We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it. We also provide our Users a method of recourse and enforcement.
+ - We provide our Users notice, choice, accountability, security, and access regarding their User Personal Information, and we limit the purpose for processing it.
 
 #### Cross-border data transfers
 
