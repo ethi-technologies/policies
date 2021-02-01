@@ -14,9 +14,9 @@ All capitalized terms have their definition in [Ethi’s Terms of Service](https
 
 ## Ethi Privacy Statement
 
-### What information Ethi collects
+#### User Personal Information
 
-"**User Personal Information**" is any information about one of our Users which could personally identify them or be reasonably connected with them. Stuff like Usernames, passwords, email addresses, real names, Internet protocol (IP) addresses, and photographs.
+User personal information is any information about one of our Users which could personally identify them or be reasonably connected with them. Stuff like Usernames, passwords, email addresses, real names, Internet protocol (IP) addresses, and photographs. This is a brief definition, it is not a list of data categories we collect.
 
 User Personal Information does not include aggregated, non-personally identifying information that cannot identify a User or  otherwise be reasonably linked or connected with them, such as website visits.
 
@@ -37,13 +37,10 @@ You may choose to give us more information for your Account profile, for example
 If you have a paid Account with us, we automatically collect certain information about your transactions on the Service, such as the date, time, and amount charged.
 
 * **Usage Information:**
-If you're accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, the referring site, your IP address and session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
+If you're accessing our Service or Website, we automatically collect the same basic information that most services collect, subject, where necessary, to your consent. This includes information about how you use the Service, such as the pages you view, session information, and the date and time of each request. This is information we collect from every visitor to the Website, whether they have an Account or not. This information may include User Personal information.
 
 * **Cookies and Similar Technologies Information:**
 Subject to your consent, when you visit Ethi’s website, ethi.me, or the Ethi platform, we may store cookies and collect information so that we can improve our website. A cookie is a very small text file that is stored on your computer. Cookies allow Ethi to identify your device as you use the Ethi Site or our platform. We also use them to recognize return visitors to the Ethi Site. This helps us improve your experience using and interacting with Ethi.
-
-* **Device Information:**
-We may collect certain information about your device, such as IP address, browser or client application information, language preference, operating system and application version, device type and ID, and device model and manufacturer. This information may include User Personal information.
 
 #### Information we collect from third parties
 
