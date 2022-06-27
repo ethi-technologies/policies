@@ -6,19 +6,11 @@ Holding your private information is a serious responsibility, so we want you to 
 
 Up front, any data that you add to Ethi to analyse is only used for the sole purpose of providing you with the Ethi Service. We don't sell, share, or use this data for anything else. We believe your data should only be used in ways that you clearly consent to, that benefit you.
 
-Ethi Technologies Ltd is the controller responsible for the processing of your personal information, with the contact details: 68 Acton St, London, WC1X 9NB, contact@ethi.me.
+Ethi Technologies Ltd is the controller responsible for the processing of your personal information, with the contact details: 30 Arthur Road, London, SW19 7DU, contact@ethi.me.
 
 All capitalized terms have their definition in [Ethi’s Terms of Service](https://github.com/ethi-technologies/policies/blob/master/ethi-terms-of-service.md), unless otherwise noted here.
 
-
-
 ## Ethi Privacy Statement
-
-#### User Personal Information
-
-User personal information is any information about one of our Users which could personally identify them or be reasonably connected with them. Stuff like Usernames, passwords, email addresses, real names, Internet protocol (IP) addresses, and photographs. This is a brief definition, it is not a list of data categories we collect.
-
-User Personal Information does not include aggregated, non-personally identifying information that cannot identify a User or  otherwise be reasonably linked or connected with them, such as website visits.
 
 #### Information users provide directly to Ethi
 
